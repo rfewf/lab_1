@@ -46,7 +46,7 @@
 
 
 
-![image]
+![image]![image](https://github.com/user-attachments/assets/0cee7a76-f734-4e7f-b55b-43210a5de93a)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
@@ -74,7 +74,9 @@ public class Helloworld : MonoBehaviour
 
 ```
 - Повесить скрипт на объект и запустить проект.
-  ![image]
+
+  ![image]![image](https://github.com/user-attachments/assets/1490fd42-2bff-4af9-aa11-8f70550e3cd9)
+
 
 ## Выводы
 
